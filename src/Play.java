@@ -9,6 +9,7 @@ public class Play {
         while(!game.isGameOver()) {
             game.printBoard();
             // your code here
+            
         }
         scanner.close();
     }

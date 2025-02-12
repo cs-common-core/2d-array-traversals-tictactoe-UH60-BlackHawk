@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Play",
+            "request": "launch",
+            "mainClass": "Play",
+            "projectName": "2d-array-traversals-tictactoe-UH60-BlackHawk_eb575922"
+        },
+        {
+            "type": "java",
             "name": "Game",
             "request": "launch",
             "mainClass": "Game",
